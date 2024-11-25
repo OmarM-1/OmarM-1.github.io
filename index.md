@@ -2,6 +2,8 @@
 
 I am a computer science student in my junior year at CSUF, expected to graduate in 2026
 
+Link to my GitHub profile: https://github.com/OmarM-1
+
 ## Favorite CPSC 120L Labs
 * Lab 7 part-1: 
 
@@ -13,4 +15,4 @@ I am a computer science student in my junior year at CSUF, expected to graduate 
 
 * Lab 10 part-1:
   
-	This was an interesting code because we used a header file to be able to find the county and state population from just the input of a county name. We put into practice the vectors and const functions we learned in class and used different functions to be able to return certain outputs. 
+	This was an interesting code because we used a header file to be able to find the county and state population from just the input of a county name. We put into practice the vectors and const functions we learned in class and used different functions to be able to return certain outputs. I hope to gain more understanding of functions and references as time goes on. That ability might be what is more important in this major later in the future. 
